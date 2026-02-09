@@ -71,12 +71,11 @@ Pour chaque question, indiquez vos sites choisis pour reference ( Si vous utilis
 
 ## Exercice 0
 
-1. A quoi sert git config , Quelles sont les informtions minimales à renseigner. Est ce bien fait sur votre ordinateur ?
+1. A quoi sert git config , Quelles sont les informtions minimales à renseigner.
 
 1. Quelles sont les commandes de bases git ? a quoi servent elles ? 
 
-Expliquez a quoi correspond ce worklow et pourquoi c'est une bonne pratique 
-![ Workflow git ](images/git-model@2x_m.png)
+Expliquez a quoi correspond le "githhub flow", voir par <exemple https://blog.programster.org/git-workflows>
 
 
   1. Créer un depot sur github TEST_worflowgit_NOM qui contient juste un fichier README. 
