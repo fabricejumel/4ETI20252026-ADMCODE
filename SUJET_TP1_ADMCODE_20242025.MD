@@ -1,4 +1,4 @@
-# SUJET TP1 4ETI AdmCO 2024 2025
+# SUJET TP1 4ETI AdmCO 2025 2026
 
 ![ Bonnes Pratiques](images/Bonnes_Pratiques_m.jpg)
 
@@ -49,6 +49,10 @@ Pour chaque question, indiquez vos sites choisis pour reference ( Si vous utilis
 
   1. A quoi sert requirments.txt ?
 
+  1. A quoi sert venv ? 
+
+  1. Comment utiliser venv ?
+
   1. A quoi ressemble un module en python ?
 
   1. A quoi ressemble un package ?
@@ -60,12 +64,6 @@ Pour chaque question, indiquez vos sites choisis pour reference ( Si vous utilis
   1. A quoi sert PYTHONPATH ?
 
   1. Où sont stockés les paquets installé par pip ?
-
-  1. A quoi sert pip install –user ? 
-
-  1. A quoi sert venv ? 
-
-  1. Comment utiliser venv ?
 
   1. A quoi sert docker ?
 
