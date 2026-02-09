@@ -75,11 +75,9 @@ Pour chaque question, indiquez vos sites choisis pour reference ( Si vous utilis
 
 1. Quelles sont les commandes de bases git ? a quoi servent elles ? 
 
-Expliquez a quoi correspond le "githhub flow", voir par <exemple https://blog.programster.org/git-workflows>
+Expliquez a quoi correspond le "githhub flow", voir par < https://blog.programster.org/git-workflows>
 
 
-  1. Créer un depot sur github TEST_worflowgit_NOM qui contient juste un fichier README. 
-En vous inspirant [du lien suivant](https://github.com/fabricejumel/gitexamples_workflowgit/). Essayer de créer un ensemble de "commandes git " permettant d'avoir le plus exactement possible ( vous ferez des choix dans la cas ou ce n'est pas possible) le schéma précédent. Vous validerez par une commande d'affichage de git et une vision équivalente sur votre board github.
 
   1. Il est souvent plus simple de commencer son projet directement sur github ou gitlab en créant un README puis de le cloner avant de commencer à proprement parler son travail de développement. Proposer des modifications de la procedure vis à vis de l'exemple précedent qui tienne compte de ce changement et qui explique aussi à quelle moment procéder au push.
 
